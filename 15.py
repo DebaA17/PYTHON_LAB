@@ -1,16 +1,10 @@
-def fibonacci(n):
-    if n <= 0:
-        return "Invalid input"
-    elif n == 1:
-        return 0
-    elif n == 2:
-        return 1
+start = int(input("Enter start of interval: "))
+end = int(input("Enter end of interval: "))
 
-    a, b = 0, 1
-    for _ in range(2, n):
-        a, b = b, a + b
-    return b
-
-# Example usage:
-n = int(input("Enter the position (n) to find the Fibonacci number: "))
-print(f"The {n}th Fibonacci number is:", fibonacci(n))
+for num in range(start, end + 1):
+    if num > 1:
+        for i in range(2, int(num ** 0.5) + 1):
+            if num % i == 0:
+                break
+        else:
+            print(num)
