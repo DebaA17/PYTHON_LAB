@@ -1,0 +1,10 @@
+# VS Code
+.vscode/
+# Pycharm 
+.idea/
+# Python compiled files
+__pycache__/
+*.pyc
+# Other
+*.log
+.env
