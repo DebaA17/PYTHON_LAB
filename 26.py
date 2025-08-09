@@ -7,14 +7,13 @@ def swap_first_last(lst):
 	return lst
 
 
-# Take user input for the list
 user_input = input("Enter list elements separated by spaces: ")
 my_list = user_input.split()
-# Convert elements to integers if possible
+
 try:
 	my_list = [int(x) for x in my_list]
 except ValueError:
-	pass  # Keep as strings if not all are integers
+	pass  
 
 print("Original list:", my_list)
 swapped_list = swap_first_last(my_list)
