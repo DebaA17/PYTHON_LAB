@@ -19,7 +19,9 @@ This repository contains Python programs and solutions for college lab assignmen
    ```
 
 ## Author
-- GitHub: DebaA17
+- DEBASIS
+  Email:contact@debasisbiswas.me
+  Portfolio:https://debasisbiswas.me
 
 ---
 Feel free to use or modify these codes for your learning!
