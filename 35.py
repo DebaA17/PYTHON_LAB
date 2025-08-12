@@ -1,6 +1,5 @@
-num = int(input("Enter the number : "))
+# Python program to print positive numbers in a list
 
-if num >=0:
-    print(f"{num} is Positive")
-else:
-    print("Invalid input! Enter a positive integar")
+nums = list(map(int, input("Enter numbers (space-separated): ").split()))
+positive_nums = [n for n in nums if n > 0]
+print(positive_nums)
