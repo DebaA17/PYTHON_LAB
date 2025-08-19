@@ -1,16 +1,18 @@
 def fibonacci(n):
-    if n <= 0:
+    if n < 0:
         return "Invalid input"
-    elif n == 1:
+    elif n == 0:
         return 0
-    elif n == 2:
+    elif n == 1:
         return 1
-
     a, b = 0, 1
-    for _ in range(2, n):
+    for _ in range(2, n + 1):
         a, b = b, a + b
     return b
 
-# Example usage:
-n = int(input("Enter the position (n) to find the Fibonacci number: "))
-print(f"The {n}th Fibonacci number is:", fibonacci(n))
+try:
+    n = int(input("Enter the position (starting from 0): "))
+    print("Fibonacci number at position", n, "is:", fibonacci(n))
+except ValueError:
+    print("Please enter a valid integer.")
+
