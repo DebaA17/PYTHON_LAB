@@ -18,7 +18,7 @@ This repository contains Python programs and solutions for college lab assignmen
    python3 1.py
    ```
 
-## Maintainners
+## Maintainers
 - DEBASIS
   Email:contact@debasisbiswas.me
   Portfolio:https://debasisbiswas.me
