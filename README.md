@@ -19,12 +19,14 @@ This repository contains Python programs and solutions for college lab assignmen
    ```
 
 ## Maintainers
-- DEBASIS
-  Email:debasisbiswas.dev@proton.me
-  Portfolio:https://debasisbiswas.me
-- Surajit
-  Email:sensurajit@proton.me
-  portfolio:https://surajitsen.live
+
+- **DEBASIS**  
+  Email: [debasisbiswas.dev@proton.me](mailto:debasisbiswas.dev@proton.me)  
+  Portfolio: [https://debasisbiswas.me](https://debasisbiswas.me)  
+
+- **Surajit**  
+  Email: [sensurajit@proton.me](mailto:sensurajit@proton.me)  
+  Portfolio: [https://surajitsen.live](https://surajitsen.live)
 
 ---
 Feel free to use or modify these codes for your learning!
