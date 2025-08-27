@@ -18,10 +18,12 @@ This repository contains Python programs and solutions for college lab assignmen
    python3 1.py
    ```
 
-## Author
+## Maintainers 
 - DEBASIS
-  Email:contact@debasisbiswas.me
+  Email:debasisbiswas.dev@proton.me
   Portfolio:https://debasisbiswas.me
-
+- Surajit
+  Email:sensurajit@proton.me
+  portfolio:https://surajitsen.live
 ---
 Feel free to use or modify these codes for your learning!
