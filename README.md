@@ -27,6 +27,5 @@ This repository contains Python programs and solutions for college lab assignmen
 - **Surajit**  
   Email: [sensurajit@proton.me](mailto:sensurajit@proton.me)  
   Portfolio: [https://surajitsen.live](https://surajitsen.live)
-
 ---
 Feel free to use or modify these codes for your learning!
