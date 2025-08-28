@@ -1,5 +1,6 @@
-s = "madam"
-if s == s[::-1]:
-    print(s, "is Palindrome")
+text = input("Enter a string: ")
+if text == text[::-1]:
+    print("Palindrome")
 else:
-    print(s, "is Not Palindrome")
+    print("Not a palindrome")
+

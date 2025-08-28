@@ -1,11 +1,12 @@
-#from 38 to 50 
-#author : Surajit Sen 
-
-list1 = [1, 2, 3, 4]
-list2 = list1.copy()
-print("Original List:", list1)
-print("Cloned List:", list2)
+user_input = input("Enter list elements separated by spaces: ")
 
 
-numbers = [1, 2, 3, 2, 4, 2, 5]
-print("Count of 2:", numbers.count(2))
+my_list = [int(x) for x in user_input.split()]
+
+element_to_count = int(input("Enter the element to count: "))
+
+
+count = my_list.count(element_to_count)
+
+print(f"The element {element_to_count} appears {count} times in the list.")
+
