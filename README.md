@@ -1,6 +1,6 @@
 # PYTHON_LAB
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 This repository contains Python programs and solutions for college lab assignments.
@@ -41,6 +41,7 @@ Feel free to use or modify these codes for your learning!
 <table>
   <tbody>
     <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://debasisbiswas.me"><img src="https://avatars.githubusercontent.com/u/185465407?v=4?s=100" width="100px;" alt="DEBASIS BISWAS"/><br /><sub><b>DEBASIS BISWAS</b></sub></a><br /><a href="https://github.com/DebaA17/PYTHON_LAB/commits?author=DebaA17" title="Code">💻</a> <a href="#maintenance-DebaA17" title="Maintenance">🚧</a> <a href="https://github.com/DebaA17/PYTHON_LAB/commits?author=DebaA17" title="Documentation">📖</a></td>
       <td align="center" valign="top" width="14.28%"><a href="http://surajitsen.live"><img src="https://avatars.githubusercontent.com/u/143313960?v=4?s=100" width="100px;" alt="Surajit Sen"/><br /><sub><b>Surajit Sen</b></sub></a><br /><a href="https://github.com/DebaA17/PYTHON_LAB/commits?author=blackXploit-404" title="Code">💻</a></td>
     </tr>
   </tbody>
