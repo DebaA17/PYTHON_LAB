@@ -11,6 +11,18 @@
   "commitConvention": "angular",
   "contributors": [
     {
+      "login": "DebaA17",
+      "name": "DEBASIS BISWAS",
+      "avatar_url": "https://avatars.githubusercontent.com/u/185465407?v=4",
+      "profile": "https://debasisbiswas.me",
+      "contributions": [
+        "code",
+        "maintenance",
+        "doc"
+          
+      ]
+    },
+    {
       "login": "blackXploit-404",
       "name": "Surajit Sen",
       "avatar_url": "https://avatars.githubusercontent.com/u/143313960?v=4",
