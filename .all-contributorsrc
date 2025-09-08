@@ -9,7 +9,18 @@
   "imageSize": 100,
   "commit": true,
   "commitConvention": "angular",
-  "contributors": [],
+  "contributors": [
+    {
+      "login": "blackXploit-404",
+      "name": "Surajit Sen",
+      "avatar_url": "https://avatars.githubusercontent.com/u/143313960?v=4",
+      "profile": "http://surajitsen.live",
+      "contributions": [
+        "code"
+      ]
+    }
+  ],
   "contributorsPerLine": 7,
-  "linkToUsage": true
+  "linkToUsage": true,
+  "commitType": "docs"
 }
